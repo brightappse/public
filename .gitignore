@@ -1,0 +1,8 @@
+# exclude everything except directory foo/bar
+
+# ignore all files and folder
+#/*
+/folder
+
+# push only
+!/mapp
